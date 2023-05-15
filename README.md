@@ -1,1 +1,1 @@
-# plant-app
+# This is a Plant Wikipedia.
